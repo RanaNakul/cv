@@ -1,0 +1,32 @@
+body{
+    background-color: hsl(180, 86%, 94%);
+  }  
+  hr{
+    border-color: rgba(128, 128, 128, 0.59);
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 4%;
+  }
+  img:hover{
+    background-color: gold;  
+  }
+  img{
+  height: 230px;
+  border-radius: 150px;
+  }
+ h1{
+     color: #66bfbf;
+     /* text-shadow: 2px 2px 10px hsl(107, 43%, 33%) */
+ }
+ h3{
+     color: #66bfbf;
+ }
+
+ .Apple{
+   background-color: green;
+ }
+  .Green_apple{
+   background-color: red;
+ }
+ 
